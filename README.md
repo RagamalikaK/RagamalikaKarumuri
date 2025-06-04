@@ -7,7 +7,7 @@
 
 👨‍💻 All of my projects are available at **[https://github.com/RagamalikaKarumuri](https://github.com/RagamalikaKarumuri)** 
 
-Check my Portfolio at **[https://ragamalikakarumuri.sites.northeastern.edu/portfolio/](https://ragamalikakarumuri.sites.northeastern.edu/portfolio/)**
+Check my Portfolio at **[https://ragamalika-karumuri.vercel.app/]**
 
 📫 How to reach me **karumuri.r@northeastern.edu**
 
